@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mathiasesn find more infomation about me here: [mathiasesn.github.io/portfolio-webpage/](https://mathiasesn.github.io/portfolio-webpage/).
+- 👋 Hi, I’m @mathiasesn find more infomation about me here: [grandaiwizard.com](https://grandaiwizard.com/).
 
 <!---
 mathiasesn/mathiasesn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
